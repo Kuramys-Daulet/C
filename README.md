@@ -1,1 +1,1 @@
-# This is a repository for solving tasks in the book "Introduction to C++ Programming" of the third edition.
+# This is a repository for solving tasks in the book "Introduction to Programming with C++" of the third edition.

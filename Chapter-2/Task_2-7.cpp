@@ -16,7 +16,7 @@ int main()
     int days = minutes % minutesPerYear / minutesPerDay;
 
     //Output
-    cout << minutes << "minutes is approximately " << years << " years and " << days << " days"; 
+    cout << minutes << " minutes is approximately " << years << " years and " << days << " days"; 
 
     return 0;
 }

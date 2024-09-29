@@ -3,6 +3,7 @@
         "iostream": "cpp",
         "limits": "cpp",
         "ostream": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "iomanip": "cpp"
     }
 }
